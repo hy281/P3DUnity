@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 7b71f6d8aaf0a7943a8ff2ddc36f997e
+  productGUID: 4a06221a440328749a956f3853b618d7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -917,10 +917,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: cc3f46b8-1ad0-4be8-b5d1-5154669d0750
+  cloudProjectId: 5c08445d-e7b6-4b73-9246-c70fabc95c99
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: P3DUnity 2023-11-16_15-35-19
+  projectName: P3DUnity 2023-11-16_16-18-11
   organizationId: wechat_os_qy0z1hvm4sie7mzvtsunuf2ly
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
